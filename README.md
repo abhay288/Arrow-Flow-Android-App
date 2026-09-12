@@ -2,6 +2,9 @@
 
 Official commercial web presence for the Android mobile puzzle game **Arrow Flow** ("Clear the path. Master the flow.").
 
+[![Google Play](https://img.shields.io/badge/Google_Play-Download_Arrow_Flow-00E5FF?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.arrowflow.game.arrowflow)
+[![Website](https://img.shields.io/badge/Website-arrowflowgame.netlify.app-00B4D8?style=for-the-badge&logo=netlify&logoColor=white)](https://arrowflowgame.netlify.app/)
+
 This repository contains the standalone web application hosted for consumer marketing, Google Play Store developer listing verification, and Google AdMob `app-ads.txt` automated crawler verification.
 
 ---
@@ -11,8 +14,8 @@ This repository contains the standalone web application hosted for consumer mark
 - **Package Name:** `com.arrowflow.game.arrowflow`
 - **Developer:** Abhay Kushwaha
 - **Support Email:** mauryaabhay938@gmail.com
-- **Google Play:** [Play Store Listing](https://play.google.com/store/apps/details?id=com.arrowflow.game.arrowflow)
-- **Official Website:** [arrowflowgame.netlify.app](https://arrowflowgame.netlify.app/)
+- **Google Play:** [https://play.google.com/store/apps/details?id=com.arrowflow.game.arrowflow](https://play.google.com/store/apps/details?id=com.arrowflow.game.arrowflow)
+- **Official Website:** [https://arrowflowgame.netlify.app/](https://arrowflowgame.netlify.app/)
 
 ---
 
