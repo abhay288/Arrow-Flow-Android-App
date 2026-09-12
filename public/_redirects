@@ -1,0 +1,5 @@
+# Deliver app-ads.txt directly as plain text with HTTP 200
+/app-ads.txt    /app-ads.txt    200
+
+# SPA fallback for all client routes
+/*              /index.html     200

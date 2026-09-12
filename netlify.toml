@@ -1,0 +1,18 @@
+# Netlify configuration when repository base is set directly to website/
+
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+# Guarantees app-ads.txt is returned as raw plain text with HTTP 200
+[[redirects]]
+  from = "/app-ads.txt"
+  to = "/app-ads.txt"
+  status = 200
+  force = false
+
+# SPA wildcard redirect to index.html for client-side routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
