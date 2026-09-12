@@ -1,5 +1,8 @@
-# Deliver app-ads.txt directly as plain text with HTTP 200
+# Direct Plain-Text & Static Delivery for Crawlers, AdMob & LLMs
 /app-ads.txt    /app-ads.txt    200
+/robots.txt     /robots.txt     200
+/sitemap.xml    /sitemap.xml    200
+/llms.txt       /llms.txt       200
 
 # SPA fallback for all client routes
 /*              /index.html     200

@@ -1,0 +1,55 @@
+# Arrow Flow
+
+> "Clear the path. Master the flow."
+
+Arrow Flow is a premium tactile mobile logic puzzle game for Android, created by independent software developer Abhay Kushwaha. The objective is to untangle geometric arrow grids by determining the correct sequential order of arrow moves along unobstructed straight paths.
+
+## Key Information
+- **Title:** Arrow Flow
+- **Package ID:** `com.arrowflow.game.arrowflow`
+- **Platform:** Android (Google Play Store)
+- **Developer / Creator:** Abhay Kushwaha
+- **Price:** Free to Play (No paywalls, no forced subscription)
+- **Monetization:** Optional rewarded video ads for extra lives and hints (Google AdMob)
+- **Target Audience:** Puzzle lovers, brain game fans, spatial reasoning enthusiasts (Rated Everyone / PEGI 3)
+- **Connectivity:** 100% Offline Playable (Progress saved locally in sandbox storage)
+
+## Core Gameplay Mechanics
+- **Unobstructed Path Requirement:** An arrow can only escape the grid when all cells along its cardinal direction towards the perimeter are empty.
+- **Directional Scheme:**
+  - Up: Sky Blue (`#38BDF8`)
+  - Down: Purple (`#A855F7`)
+  - Left: Rose (`#F43F5E`)
+  - Right: Emerald (`#10B981`)
+- **Lives System:** Players begin each level with 2 lives. Tapping a blocked arrow triggers elastic dampening haptics and costs 1 life.
+- **Assistance Tools:** Move Snapshot Undo and Smart Hints (reveals a viable unobstructed arrow).
+- **Guaranteed Solvability:** Monotonic cell liberation algorithm guarantees zero impossible stages.
+
+## Game Modes
+- **Campaign Mode:** 100 handcrafted progressive puzzle stages across 5 worlds:
+  - World 1: *First Flow* (Levels 1–20) — Fundamentals of emergent path finding
+  - World 2: *Crossroads* (Levels 21–40) — Intersecting paths and perpendicular blockers
+  - World 3: *Complexity* (Levels 41–60) — Layered grids and counter-intuitive sequences
+  - World 4: *Twisted Paths* (Levels 61–80) — Spiral bottlenecks and delicate chains
+  - World 5: *Master Flow* (Levels 81–100) — Grandmaster labyrinth puzzles
+- **Daily Puzzle:** Seeded calendar challenges with unbroken daily streak tracking and bonus Flow Coin awards.
+- **Endless Mode:** Procedurally generated infinite zen puzzles with dynamic board scaling.
+
+## Progression & Economy
+- **3-Star Mastery:** Rated on move count efficiency.
+- **Flow Coins:** Virtual in-game currency earned from stage completions, streaks, and achievements (zero cash value).
+- **Achievements:** 10+ milestone trophies commemorating streaks, world completions, and flawless runs.
+
+## Official Links & Resources
+- Official Website: https://arrowflowgame.netlify.app/
+- Google Play Store: https://play.google.com/store/apps/details?id=com.arrowflow.game.arrowflow
+- Privacy Policy: https://arrowflowgame.netlify.app/privacy
+- Terms of Service: https://arrowflowgame.netlify.app/terms
+- Contact Developer: https://arrowflowgame.netlify.app/contact
+- AdMob Authorized Sellers: https://arrowflowgame.netlify.app/app-ads.txt
+
+## Developer & Verification (E-E-A-T)
+- Developer: Abhay Kushwaha
+- Contact Email: mauryaabhay938@gmail.com
+- Instagram: https://www.instagram.com/the.abhay.maurya/
+- GitHub: https://github.com/abhay288
