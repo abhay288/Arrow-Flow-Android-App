@@ -11,6 +11,12 @@
   status = 200
   force = false
 
+[[redirects]]
+  from = "/ads/app-ads.txt"
+  to = "/app-ads.txt"
+  status = 200
+  force = false
+
 # SPA wildcard redirect to index.html for client-side routing
 [[redirects]]
   from = "/*"
