@@ -12,7 +12,7 @@ This repository contains the standalone web application hosted for consumer mark
 - **Developer:** Abhay Kushwaha
 - **Support Email:** mauryaabhay938@gmail.com
 - **Google Play:** [Play Store Listing](https://play.google.com/store/apps/details?id=com.arrowflow.game.arrowflow)
-- **Official Website:** [arrow-flow-game.netlify.app](https://arrow-flow-game.netlify.app/)
+- **Official Website:** [arrowflowgame.netlify.app](https://arrowflowgame.netlify.app/)
 
 ---
 
